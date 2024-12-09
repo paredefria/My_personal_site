@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Meu Site Pessoal
 
 Este é o repositório do meu site pessoal, onde apresento informações sobre mim, meus projetos e como entrar em contato comigo.
@@ -32,3 +34,8 @@ Seu Nome
 
 GitHub: @seu-usuario
 LinkedIn: seu-perfil
+=======
+
+# My_personal_site
+
+> > > > > > > 5c959931a4ade841f5f893589cbe38200e6acc1d
